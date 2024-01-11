@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sofimrtn.github.io/medvr.github.io/en/categories/</loc>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/tags/about/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/page/about/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/tags/me/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
   </url><url>
     <loc>https://sofimrtn.github.io/medvr.github.io/en/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/page/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
   </url><url>
     <loc>https://sofimrtn.github.io/medvr.github.io/en/tags/</loc>
+    <lastmod>2024-01-11T22:13:42+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/blog/</loc>
+    <lastmod>2024-01-11T22:12:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/tags/hello/</loc>
+    <lastmod>2024-01-11T22:12:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/blog/hello_world/</loc>
+    <lastmod>2024-01-11T22:12:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/tags/world/</loc>
+    <lastmod>2024-01-11T22:12:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sofimrtn.github.io/medvr.github.io/en/categories/</loc>
   </url>
 </urlset>

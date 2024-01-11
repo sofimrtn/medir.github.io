@@ -6,6 +6,35 @@
     <description>Recent content in Tags on MedVR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 11 Jan 2024 22:13:42 +0100</lastBuildDate>
     <atom:link href="https://sofimrtn.github.io/medvr.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://sofimrtn.github.io/medvr.github.io/en/tags/about/</link>
+      <pubDate>Thu, 11 Jan 2024 22:13:42 +0100</pubDate>
+      <guid>https://sofimrtn.github.io/medvr.github.io/en/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>me</title>
+      <link>https://sofimrtn.github.io/medvr.github.io/en/tags/me/</link>
+      <pubDate>Thu, 11 Jan 2024 22:13:42 +0100</pubDate>
+      <guid>https://sofimrtn.github.io/medvr.github.io/en/tags/me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hello</title>
+      <link>https://sofimrtn.github.io/medvr.github.io/en/tags/hello/</link>
+      <pubDate>Thu, 11 Jan 2024 22:12:53 +0100</pubDate>
+      <guid>https://sofimrtn.github.io/medvr.github.io/en/tags/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>world</title>
+      <link>https://sofimrtn.github.io/medvr.github.io/en/tags/world/</link>
+      <pubDate>Thu, 11 Jan 2024 22:12:53 +0100</pubDate>
+      <guid>https://sofimrtn.github.io/medvr.github.io/en/tags/world/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
